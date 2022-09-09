@@ -2,14 +2,15 @@
 
 /**
  * main - print the string in put function
- *
+ * puts - Print the function of put
  * Description: Using the main function
  * This program prints "Programming is like building a multilingual puzzle
- * Return: 0
  */
+
 int main(void)
 {
-  puts("\"Programming is like building a multilingual puzzle");
-
-            return (0);
+  int main;
+  
+  puts("\"Programming is like building a multilingual puzzle")
+  return (0);
 }
